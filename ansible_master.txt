@@ -1,0 +1,12 @@
+    1  exit
+    2  ansible 172.31.40.230 -m ping
+    3  ll
+    4  ls -a
+    5  cd /etc/ansible
+    6  vi hosts
+    7  ansible hosts -m ping
+    8  pwd
+    9  v hosts
+   10  vi hosts
+   11  ansible amazonweb -m ping
+   12  history >> ansible_master.txt
